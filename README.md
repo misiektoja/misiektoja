@@ -1,10 +1,28 @@
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ## Contact & Contributions
 
 * **Questions, help**: use GitHub Discussions
 * **Bugs and feature requests**: open a GitHub issue
-* **Pull requests**: welcome, rebase on latest `dev` and use a dedicated feature branch (not `main` or `dev`)
-* **Security, private or business inquiries**: [misiektoja-github@rm-rf.ninja](mailto:misiektoja-github@rm-rf.ninja)
+* **Pull requests**: rebase on latest `dev` and use a dedicated feature branch (not `main` or `dev`)
+* **Inquiries**: [misiektoja-github@rm-rf.ninja](mailto:misiektoja-github@rm-rf.ninja)
 * **Quick contact**: Discord ([misiek.to.ja](https://discord.com/users/1249778881888522392))
+
+</td>
+<td width="45%" align="center">
+
+<a href="https://discord.com/users/1249778881888522392">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/1249778881888522392?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60">
+  <img src="https://lanyard.cnrad.dev/api/1249778881888522392?theme=light&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60">
+</picture>
+</a>
+
+</td>
+</tr>
+</table>
 
 ## Featured Projects
 
