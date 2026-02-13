@@ -1,17 +1,16 @@
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ## Contact & Contributions
 
-* **Questions, help**: use GitHub Discussions
 * **Bugs and feature requests**: open a GitHub issue
-* **Pull requests**: rebase on latest `dev` and use a dedicated feature branch (not `main` or `dev`)
+* **Pull requests**: welcome, rebase on latest `dev`
 * **Inquiries**: [misiektoja-github@rm-rf.ninja](mailto:misiektoja-github@rm-rf.ninja)
 * **Quick contact**: Discord ([misiek.to.ja](https://discord.com/users/1249778881888522392))
 
 </td>
-<td width="45%" align="center">
+<td width="50%" align="center">
 
 <a href="https://discord.com/users/1249778881888522392">
 <picture>
