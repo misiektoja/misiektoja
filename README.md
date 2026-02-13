@@ -15,7 +15,7 @@
 <a href="https://discord.com/users/1249778881888522392">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/1249778881888522392?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60">
-  <img src="https://lanyard.cnrad.dev/api/1249778881888522392?theme=light&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60">
+  <img src="https://lanyard.cnrad.dev/api/1249778881888522392?theme=light&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60" width="100%">
 </picture>
 </a>
 
