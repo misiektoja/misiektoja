@@ -1,21 +1,22 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="center">
 
 ## Contact & Contributions
 
+* **Questions, help**: use GitHub Discussions
 * **Bugs and feature requests**: open a GitHub issue
 * **Pull requests**: welcome, rebase on latest `dev`
 * **Inquiries**: [misiektoja-github@rm-rf.ninja](mailto:misiektoja-github@rm-rf.ninja)
 * **Quick contact**: Discord ([misiek.to.ja](https://discord.com/users/1249778881888522392))
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center" valign="top">
 
 <a href="https://discord.com/users/1249778881888522392">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/1249778881888522392?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60">
-  <img src="https://lanyard.cnrad.dev/api/1249778881888522392?theme=light&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://dsc-readme.tsuni.dev/api/user/1249778881888522392?theme=dark&animate=true">
+  <img src="https://dsc-readme.tsuni.dev/api/user/1249778881888522392?theme=light&animate=true" width="100%">
 </picture>
 </a>
 
