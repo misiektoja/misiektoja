@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="55%" valign="center">
+<td width="50%" valign="top">
 
 ## Contact & Contributions
 
@@ -11,12 +11,12 @@
 * **Quick contact**: Discord ([misiek.to.ja](https://discord.com/users/1249778881888522392))
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="50%" align="center">
 
 <a href="https://discord.com/users/1249778881888522392">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://dsc-readme.tsuni.dev/api/user/1249778881888522392?theme=dark&animate=true">
-  <img src="https://dsc-readme.tsuni.dev/api/user/1249778881888522392?theme=light&animate=true" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.misiektoja.workers.dev/api/1249778881888522392?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60">
+  <img src="https://lanyard-profile-readme.misiektoja.workers.dev/api/1249778881888522392?theme=light&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60" width="100%">
 </picture>
 </a>
 
