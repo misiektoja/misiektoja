@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ## Contact & Contributions
 
@@ -11,18 +11,19 @@
 * **Quick contact**: Discord ([misiek.to.ja](https://discord.com/users/1249778881888522392))
 
 </td>
-<td width="50%" align="center">
+<td width="55%" align="center" valign="top">
 
 <a href="https://discord.com/users/1249778881888522392">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.misiektoja.workers.dev/api/1249778881888522392?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60">
-  <img src="https://lanyard-profile-readme.misiektoja.workers.dev/api/1249778881888522392?theme=light&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&cache=60" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.misiektoja.workers.dev/api/1249778881888522392?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&fontScale=0.9&cache=60">
+  <img src="https://lanyard-profile-readme.misiektoja.workers.dev/api/1249778881888522392?theme=light&bg=transparent&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=Just%20chilling&fontScale=0.9&cache=60" width="100%">
 </picture>
 </a>
 
 </td>
 </tr>
 </table>
+
 
 ## Featured Projects
 
