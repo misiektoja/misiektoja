@@ -1,11 +1,15 @@
-## Contact & Contributions
+## Contact
 
-* **Questions, help**: use GitHub Discussions
-* **Bugs and feature requests**: open a GitHub issue
-* **Security vulnerabilities**: do not open a public issue - check the repo's `SECURITY.md` (several enable private reporting via GitHub Security Advisories), otherwise email below
-* **Pull requests**: welcome, rebase on latest `dev` and use a dedicated feature branch (not `main` or `dev`)
-* **Private or business inquiries**: [misiektoja-github@rm-rf.ninja](mailto:misiektoja-github@rm-rf.ninja)
-* **Quick contact**: Discord ([misiek.to.ja](https://discord.com/users/1249778881888522392))
+<table>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:misiektoja-github@rm-rf.ninja">misiektoja-github@rm-rf.ninja</a></td>
+  </tr>
+  <tr>
+    <td><strong>Discord</strong></td>
+    <td><a href="https://discord.com/users/1249778881888522392">misiek.to.ja</a></td>
+  </tr>
+</table>
 
 ## Featured Projects
 
