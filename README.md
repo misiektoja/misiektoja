@@ -35,6 +35,7 @@
 | **[ncm-issuer](https://github.com/nokia/ncm-issuer)** | Kubernetes cert-manager issuer for Nokia NCM PKI |
 | **[go-acme-server](https://github.com/misiektoja/go-acme-server)** | Embeddable ACME server library for Go (RFC 8555) |
 | **[go-pkicmp-ng](https://github.com/misiektoja/go-pkicmp-ng)** | Go implementation of the CMP protocol (RFC 9810, RFC 4210 and RFC 6712) |
+| **[go-composite-mldsa](https://github.com/misiektoja/go-composite-mldsa)** | Go library for post-quantum composite ML-DSA signatures (draft-ietf-lamps-pq-composite-sigs) |
 | **[forklift_x509_tools](https://github.com/misiektoja/forklift_x509_tools)** | ForkLift (macOS) extensions for managing x509 certificates |
 
 ### Developer Tools & Utilities
